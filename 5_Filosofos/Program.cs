@@ -1,7 +1,6 @@
 ﻿
 // Philosophers Problem, C# edition
-// MAMR, 33084
-// Console app, utilizando hilos y sincronización de recursos compartidos (forks) para simular el problema de los filósofos comensales.
+// MAMR, 33084.
 // Utiliza resource hierarchy para prevenir deadlocks, y cada filósofo come 3 veces antes de terminar.
 using System;
 using System.Threading;
