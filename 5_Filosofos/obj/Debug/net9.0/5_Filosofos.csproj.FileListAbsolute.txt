@@ -1,0 +1,14 @@
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\bin\Debug\net9.0\5_Filosofos.exe
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\bin\Debug\net9.0\5_Filosofos.deps.json
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\bin\Debug\net9.0\5_Filosofos.runtimeconfig.json
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\bin\Debug\net9.0\5_Filosofos.dll
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\bin\Debug\net9.0\5_Filosofos.pdb
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.AssemblyInfoInputs.cache
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.AssemblyInfo.cs
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.dll
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\refint\5_Filosofos.dll
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.pdb
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\5_Filosofos.genruntimeconfig.cache
+C:\Users\Andres\Documents\2026-2 Classes\CloudComputing\5_Filosofos\obj\Debug\net9.0\ref\5_Filosofos.dll
